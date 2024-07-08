@@ -23,7 +23,7 @@ CREATE TABLE posts (
 Instrucciones generales para cargar el proyecto
 Ejecutar npm install en los directorios /backend y /frontend para instalar las dependencias necesarias.
 
-Renombrar el archivo '.env.template' (que contiene solo los nombres de las variables de entorno sin datos) a '.env' en el directorio /backend. Completa la información de las variables de entorno como sigue:
+
 
 PORT: Puerto del backend
 PGHOST: Host de la base de datos
